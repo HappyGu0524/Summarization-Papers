@@ -3,6 +3,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+| Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model | ACL19 |
 | Hierarchical Transformers for Multi-Document Summarization | ACL19 |
 |HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization|ACL19|
 | HIGHRES: Highlight-based Reference-less Evaluation of Summarization | ACL19 |
@@ -32,6 +33,7 @@
 | Controllable Abstractive Summarization|ACL2018 Workshop|
 | Entity Commonsense Representation for Neural Abstractive Summarization | NAACL18|
 | Multi-Reward Reinforced Summarization with Saliency and Entailment|NAACL18|
+| Entity Commonsense Representation for Neural Abstractive Summarization | NAACL18 |
 | Guiding Generation for Abstractive Text Summarization based on Key Information Guide Network|NAACL18|
 | Ranking Sentences for Extractive Summarization with Reinforcement Learning|NAACL18|
 | Generating Wikipedia By Summarizing Long Sequence | ICLR18 |
